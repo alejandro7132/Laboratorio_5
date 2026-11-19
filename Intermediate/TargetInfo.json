@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AventuraUSFX022026L1",
+			"Path": "D:\\ING DE SIS\\Materias 2-2026\\Labs_pacheco\\Laboratorio_5\\AventuraUSFX022026L1\\Source\\AventuraUSFX022026L1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AventuraUSFX022026L1Editor",
+			"Path": "D:\\ING DE SIS\\Materias 2-2026\\Labs_pacheco\\Laboratorio_5\\AventuraUSFX022026L1\\Source\\AventuraUSFX022026L1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

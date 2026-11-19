@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AventuraUSFX022026L1.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\AventuraUSFX022026L1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Development\AventuraUSFX022026L1\Module.AventuraUSFX022026L1.cpp.obj"
+"D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Development\AventuraUSFX022026L1\Module.AventuraUSFX022026L1.gen.cpp.obj"
+"D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Development\AventuraUSFX022026L1\Default.rc2.res"
+/OUT:"D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Development\AventuraUSFX022026L1\UE4Editor-AventuraUSFX022026L1.lib"

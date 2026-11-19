@@ -1,0 +1,179 @@
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Development\AventuraUSFX022026L1\Definitions.AventuraUSFX022026L1.h
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/AventuraUSFX022026L1.cpp
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\AventuraUSFX022026L1.h
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/AventuraUSFX022026L1GameMode.cpp
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\AventuraUSFX022026L1GameMode.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\AventuraUSFX022026L1GameMode.generated.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\AventuraUSFX022026L1Pawn.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\AventuraUSFX022026L1Pawn.generated.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\Plataforma.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\Plataforma.generated.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\PlataformaAerea.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\PlataformaAerea.generated.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\PlataformaTerrestre.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\PlataformaTerrestre.generated.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\PlataformaSubterranea.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\PlataformaSubterranea.generated.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\PlataformaAcuatica.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\PlataformaAcuatica.generated.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\Inventory.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\Inventory.generated.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\FabricaPlataformas.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\FabricaPlataformas.generated.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\Obstaculo.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\Obstaculo.generated.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\ObstaculoFijo.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\ObstaculoFijo.generated.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\ObstaculoMovil.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\ObstaculoMovil.generated.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\ObstaculoPeligroso.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\ObstaculoPeligroso.generated.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\FabricaObstaculos.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\FabricaObstaculos.generated.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\FabricaObstaculosTerrestres.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\FabricaObstaculosTerrestres.generated.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\FabricaObstaculosAcuaticos.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\FabricaObstaculosAcuaticos.generated.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\FabricaObstaculosAereos.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\FabricaObstaculosAereos.generated.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\FabricaObstaculosSubterraneos.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\FabricaObstaculosSubterraneos.generated.h
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/AventuraUSFX022026L1Pawn.cpp
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\AventuraUSFX022026L1Projectile.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\AventuraUSFX022026L1Projectile.generated.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/SpringArmComponent.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpringArmComponent.generated.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/AventuraUSFX022026L1Projectile.cpp
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/BuilderEPAleatoria.cpp
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\BuilderEPAleatoria.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\BuilderEstructuraPlataforma.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\BuilderEstructuraPlataforma.generated.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\BuilderEPAleatoria.generated.h
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/BuilderEstructuraPlataforma.cpp
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/DirectorEP.cpp
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\DirectorEP.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\DirectorEP.generated.h
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/Enemigo.cpp
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\Enemigo.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\Enemigo.generated.h
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/EnemigoAcuatico.cpp
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\EnemigoAcuatico.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\EnemigoAcuatico.generated.h
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/EnemigoAcuaticoAnimal.cpp
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\EnemigoAcuaticoAnimal.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\EnemigoAcuaticoAnimal.generated.h
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/EnemigoAereo.cpp
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\EnemigoAereo.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\EnemigoAereo.generated.h
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/EnemigoAlienigena.cpp
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\EnemigoAlienigena.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\EnemigoAlienigena.generated.h
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/EnemigoAnimal.cpp
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\EnemigoAnimal.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\EnemigoAnimal.generated.h
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/EnemigoTerrestre.cpp
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\EnemigoTerrestre.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\EnemigoTerrestre.generated.h
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/EsrtucturaPlataformas.cpp
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\EsrtucturaPlataformas.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\EsrtucturaPlataformas.generated.h
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/FabricaEnemigos.cpp
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\FabricaEnemigos.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\FabricaEnemigos.generated.h
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/FabricaEnemigosAnimales.cpp
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\FabricaEnemigosAnimales.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\FabricaEnemigosAnimales.generated.h
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/FabricaEnemigosTerrestres.cpp
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\FabricaEnemigosTerrestres.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\FabricaEnemigosTerrestres.generated.h
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/FabricaObstaculos.cpp
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/FabricaObstaculosAcuaticos.cpp
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\ObstaculoIceberg.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\ObstaculoIceberg.generated.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\ObstaculoBoya.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\ObstaculoBoya.generated.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\ObstaculoRemolino.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\ObstaculoRemolino.generated.h
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/FabricaObstaculosAereos.cpp
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\ObstaculoNube.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\ObstaculoNube.generated.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\ObstaculoGlobo.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\ObstaculoGlobo.generated.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\ObstaculoTormenta.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\ObstaculoTormenta.generated.h
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/FabricaObstaculosSubterraneos.cpp
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\ObstaculoEstalactita.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\ObstaculoEstalactita.generated.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\ObstaculoVagoneta.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\ObstaculoVagoneta.generated.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\ObstaculoLava.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\ObstaculoLava.generated.h
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/FabricaObstaculosTerrestres.cpp
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\ObstaculoRoca.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\ObstaculoRoca.generated.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\ObstaculoTroncoRodante.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\ObstaculoTroncoRodante.generated.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\ObstaculoPinchos.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\ObstaculoPinchos.generated.h
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/FabricaPlataformas.cpp
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/Inventory.cpp
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/InventoryActor.cpp
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\InventoryActor.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/StaticMeshActor.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\StaticMeshActor.generated.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\InventoryActor.generated.h
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/InventoryCharacter.cpp
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\InventoryCharacter.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\InventoryCharacter.generated.h
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/InventoryComponent.cpp
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\InventoryComponent.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\InventoryComponent.generated.h
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/Obstaculo.cpp
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/ObstaculoBoya.cpp
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/ObstaculoEstalactita.cpp
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/ObstaculoFijo.cpp
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/ObstaculoGlobo.cpp
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/ObstaculoIceberg.cpp
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/ObstaculoLava.cpp
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/ObstaculoMovil.cpp
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/ObstaculoNube.cpp
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/ObstaculoPeligroso.cpp
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/ObstaculoPinchos.cpp
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/ObstaculoRemolino.cpp
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/ObstaculoRoca.cpp
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/ObstaculoTormenta.cpp
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/ObstaculoTroncoRodante.cpp
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/ObstaculoVagoneta.cpp
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/Plataforma.cpp
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/PlataformaAcuatica.cpp
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/PlataformaAerea.cpp
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/PlataformaSubterranea.cpp
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/PlataformaTerrestre.cpp
+D:/ING DE SIS/Materias 2-2026/Labs_pacheco/Laboratorio_5/AventuraUSFX022026L1/Source/AventuraUSFX022026L1/Puertas.cpp
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\Puertas.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_5\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\Puertas.generated.h
